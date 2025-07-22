@@ -19,12 +19,12 @@ The Decimal Conversions Library addresses the common requirement of performing a
 Add this library to your Forc.toml file:
 
 ```bash
-forc add decimal-conversions
+forc add deci-mate
 ```
 
 ```toml
 [dependencies]
-decimal_conversions = 0.1.0
+deci-mate = 0.1.1
 ```
 
 ## API Reference
@@ -181,9 +181,13 @@ Contributions are welcome through standard pull request procedures. Please ensur
 
 ## Version History
 
-### Version 1.0.0
+### Version 0.1.0
 
 - Initial implementation with core percentage and conversion functions
 - Comprehensive test suite implementation
 - Gas optimization through constant lookup tables
 - Overflow protection mechanisms
+
+### Version 0.1.1
+
+- Minor refs in documentation

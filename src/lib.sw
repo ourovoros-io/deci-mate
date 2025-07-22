@@ -246,9 +246,6 @@ fn test_pow_ten_overflow() {
 
 // Additional comprehensive tests for edge cases and boundary conditions
 
-// Additional comprehensive tests for edge cases and boundary conditions removed
-// to focus on the working improvements
-
 #[test]
 fn test_convert_decimals_boundary_cases() {
     // Test maximum delta conversion
